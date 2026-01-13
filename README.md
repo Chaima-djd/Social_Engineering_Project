@@ -14,11 +14,9 @@
 - Membre 2: Hamedi Chaima (@chaimaa-hmd)
 - Membre 3: Djelloul Daoud Chaima (@chaima-djd)
 
-*(Noms réels non affichés conformément aux consignes)*
-
 ---
 
-## 🎯 Objectif du projet
+##  Objectif du projet
 Ce projet a pour objectif de simuler des attaques d’ingénierie sociale physique
 (tailgating, baiting et impersonation) à travers une application en ligne de commande.
 
@@ -30,5 +28,4 @@ compris entre 0 et 100**, permettant d’évaluer le niveau de sensibilisation �
 ## ▶️ Exécution du simulateur
 🔗 [Vidéo Démo](https://drive.google.com/file/d/1foJsOj1dcs5U-SJ3O1NsHP-5o5Lk5gmI/view?usp=sharing)
 
-```bash
-python social_engineering_sim.py
+```
